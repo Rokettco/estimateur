@@ -352,7 +352,7 @@ export default {
       </div>
     </div>
     <div style="text-align: right;">
-      Note : Les calculs de ce simulateur sont basés sur les données de octobree 2022.
+      Note : Les calculs de ce simulateur sont basés sur les données de octobre 2022.
     </div>
   </div>
 </template>
